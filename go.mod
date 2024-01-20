@@ -1,4 +1,4 @@
-module github.com/csimplestring/delta-go
+module github.com/pilord12/delta-go
 
 go 1.19
 

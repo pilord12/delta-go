@@ -7,9 +7,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/iter"
-	"github.com/csimplestring/delta-go/store"
+	"github.com/pilord12/delta-go/action"
+	"github.com/pilord12/delta-go/iter"
+	"github.com/pilord12/delta-go/store"
 	"github.com/rotisserie/eris"
 	"github.com/samber/mo"
 )

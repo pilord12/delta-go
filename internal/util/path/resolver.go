@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/csimplestring/delta-go/errno"
+	"github.com/pilord12/delta-go/errno"
 	"github.com/rotisserie/eris"
 )
 

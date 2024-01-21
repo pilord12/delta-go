@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/csimplestring/delta-go/iter"
+	"github.com/pilord12/delta-go/iter"
 	"github.com/stretchr/testify/assert"
 	_ "gocloud.dev/blob/fileblob"
 	_ "gocloud.dev/blob/gcsblob"

@@ -3,11 +3,11 @@ package deltago
 import (
 	"io"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/internal/util"
-	"github.com/csimplestring/delta-go/internal/util/path"
-	"github.com/csimplestring/delta-go/iter"
-	expr "github.com/csimplestring/delta-go/types"
+	"github.com/pilord12/delta-go/action"
+	"github.com/pilord12/delta-go/internal/util"
+	"github.com/pilord12/delta-go/internal/util/path"
+	"github.com/pilord12/delta-go/iter"
+	expr "github.com/pilord12/delta-go/types"
 	mapset "github.com/deckarep/golang-set/v2"
 	"github.com/rotisserie/eris"
 	"github.com/samber/mo"

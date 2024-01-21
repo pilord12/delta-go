@@ -5,12 +5,12 @@ import (
 	"io"
 	"testing"
 
-	delta "github.com/csimplestring/delta-go"
+	delta "github.com/pilord12/delta-go"
 	"github.com/rotisserie/eris"
 	"github.com/samber/mo"
 
-	"github.com/csimplestring/delta-go/iter"
-	"github.com/csimplestring/delta-go/store"
+	"github.com/pilord12/delta-go/iter"
+	"github.com/pilord12/delta-go/store"
 	"github.com/stretchr/testify/assert"
 )
 

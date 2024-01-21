@@ -5,11 +5,11 @@ import (
 	"math"
 
 	"github.com/barweiss/go-tuple"
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util"
-	"github.com/csimplestring/delta-go/internal/util/filenames"
-	"github.com/csimplestring/delta-go/store"
+	"github.com/pilord12/delta-go/action"
+	"github.com/pilord12/delta-go/errno"
+	"github.com/pilord12/delta-go/internal/util"
+	"github.com/pilord12/delta-go/internal/util/filenames"
+	"github.com/pilord12/delta-go/store"
 	"github.com/samber/mo"
 )
 

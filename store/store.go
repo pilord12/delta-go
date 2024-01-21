@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/iter"
+	"github.com/pilord12/delta-go/errno"
+	"github.com/pilord12/delta-go/iter"
 	"github.com/rotisserie/eris"
 )
 

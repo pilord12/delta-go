@@ -3,7 +3,7 @@ package util
 import (
 	"strings"
 
-	"github.com/csimplestring/delta-go/types"
+	"github.com/pilord12/delta-go/types"
 	mapset "github.com/deckarep/golang-set/v2"
 	"github.com/repeale/fp-go"
 	"github.com/samber/mo"

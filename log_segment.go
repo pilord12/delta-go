@@ -3,8 +3,8 @@ package deltago
 import (
 	"time"
 
-	"github.com/csimplestring/delta-go/internal/util"
-	"github.com/csimplestring/delta-go/store"
+	"github.com/pilord12/delta-go/internal/util"
+	"github.com/pilord12/delta-go/store"
 	"github.com/samber/mo"
 )
 

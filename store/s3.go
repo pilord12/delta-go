@@ -5,9 +5,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util/path"
-	"github.com/csimplestring/delta-go/iter"
+	"github.com/pilord12/delta-go/errno"
+	"github.com/pilord12/delta-go/internal/util/path"
+	"github.com/pilord12/delta-go/iter"
 	"github.com/rotisserie/eris"
 
 	goblob "gocloud.dev/blob"
